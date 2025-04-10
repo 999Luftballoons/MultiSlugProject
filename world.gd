@@ -2,4 +2,4 @@ extends Node2D
 
 
 
-var e = "eee"
+var e = "linganguliguliguliwacha"
